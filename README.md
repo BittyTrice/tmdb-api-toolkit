@@ -18,3 +18,6 @@ The Movie Database (TMDB) is a free, community‑driven movie and TV database. I
 3. Install `requests` via terminal:
    ```bash
    pip install requests
+4. Get a free API key from TMDB.
+5. Create a file named tmdb_test.py in your project.
+6. Run the script in PyCharm.
