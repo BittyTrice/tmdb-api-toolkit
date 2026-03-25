@@ -49,14 +49,30 @@ else:
 
 ```
 ## ✨ AI Prompts & Learning Reflections
-- Prompt: *“Guide me on PyCharm part seriously”*  
-  Reflection: Learned how to set up PyCharm step by step.  
 
-- Prompt: *“But in this case how can I use this like in Postman to call”*  
-  Reflection: Understood how Postman complements Python by showing raw JSON responses.  
+- **Prompt:** *“Explain step‑by‑step how to set up PyCharm for Python projects”*  
+  **Reflection:** Learned how to configure a virtual environment, install packages, and run scripts inside PyCharm.  
 
-- Prompt: *“Now give me the documentation”*  
-  Reflection: AI provided a ready‑made Markdown template, making documentation easier.
+- **Prompt:** *“Show me how to test the TMDB API in Postman before coding”*  
+  **Reflection:** Understood how Postman helps visualize raw JSON responses, making it easier to design Python code around the API.  
+
+- **Prompt:** *“Generate a beginner‑friendly README template for my project”*  
+  **Reflection:** Received a structured Markdown template that improved documentation clarity and professionalism.  
+
+- **Prompt:** *“What are common errors when using APIs in Python and how do I fix them?”*  
+  **Reflection:** Learned to troubleshoot invalid API keys, environment issues, and rate limits effectively.  
+
+- **Prompt:** *“Compare using requests in Python vs. using Postman for API testing”*  
+  **Reflection:** Gained insight into how Postman is great for quick testing, while Python scripts are better for automation and integration.  
+
+- **Prompt:** *“Guide me on Git commands for pushing and pulling changes”*  
+  **Reflection:** Learned how to use `git add`, `git commit`, `git push`, and `git pull` to manage project versions and sync with GitHub.  
+
+- **Prompt:** *“How do I resolve merge conflicts in PyCharm?”*  
+  **Reflection:** Understood how to use PyCharm’s merge conflict editor to choose between local and remote changes, ensuring smooth collaboration.  
+
+- **Prompt:** *“Explain what happens when Git rejects a push”*  
+  **Reflection:** Learned that Git prevents overwriting remote changes, and how to safely pull, merge, and push updates.  
 
 ## ⚠️ Common Errors & How to Resolve
 - **Invalid API key** → Double‑check you copied it correctly.  
