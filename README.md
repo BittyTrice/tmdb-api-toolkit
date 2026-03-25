@@ -48,6 +48,13 @@ else:
     print("No results found.")
 
 ```
+## 🐍 Sample output
+When searching for *Wuthering Heights*, the script prints:
+- **🎬 Title:** *Wuthering Heights*  
+- **📅 Release Date:** 2026-02-11  
+- **⭐ Rating:** 6.367  
+- **📝 Overview:** Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.
+
 ## ✨ AI Prompts & Learning Reflections
 
 - **Prompt:** *“Explain step‑by‑step how to set up PyCharm for Python projects”*  
